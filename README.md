@@ -15,8 +15,7 @@ The Project provides Four Tasks which is given by Cognifyz Technology.
 		
   4.Interpret the model's results and analyze the most
     influential features affecting restaurant ratings.
-# Task-2: Create a restaurant recommendation
-# system based on user preferences.
+# Task-2: Create a restaurant recommendation system based on user preferences.
 # Steps:
   1.Preprocess the dataset by handling missing
     values and encoding categorical variables.
